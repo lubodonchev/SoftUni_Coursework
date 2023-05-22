@@ -16,3 +16,6 @@ while True:
         break
 
     year = int(year)
+
+
+# set_value = set(year)
