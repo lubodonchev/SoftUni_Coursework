@@ -1,4 +1,8 @@
-a = 25
-b = 4
+year = 1234
+a = '3'
 
-print(a % b)
+lst = [f'{year}']
+if a in lst:
+    print('True')
+else:
+    print('False')
