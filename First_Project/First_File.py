@@ -1,8 +1,3 @@
-year = 1234
-a = '3'
+numbers = [1, 1, 1, 2, 2, 2, 3, 3, 3, 4]
 
-lst = [f'{year}']
-if a in lst:
-    print('True')
-else:
-    print('False')
+print(set(numbers))
