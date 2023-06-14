@@ -1,7 +1,2 @@
-word = 'arp'
-test = 'harp'
+print(help(list))
 
-if word in test:
-    print(True)
-else:
-    print(False)
