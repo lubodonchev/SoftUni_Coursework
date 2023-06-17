@@ -1,2 +1,2 @@
-print(help(list))
+# print(help(list))
 
