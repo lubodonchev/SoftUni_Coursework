@@ -1,7 +1,5 @@
 # print(help(list))
 
-text = 'word'
+lst = [1, 1, 1]
 
-text = text[::-1]
-
-print(text)
+print(len(lst))
