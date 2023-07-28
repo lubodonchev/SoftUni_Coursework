@@ -1,5 +1,5 @@
 # print(help(list))
 
-lst = [1, 1, 1]
+text = 'aaa1111111111111111aaab'
 
-print(len(lst))
+print(text.index('b'))
