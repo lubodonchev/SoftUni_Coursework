@@ -1,5 +1,7 @@
 # print(help(list))
 
-text = 'aaa1111111111111111aaab'
+text = 'a1111111d11111111aaab'
 
-print(text.index('b'))
+text = text.replace('d', '', 1)
+print(text)
+
